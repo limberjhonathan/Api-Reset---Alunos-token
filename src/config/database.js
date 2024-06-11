@@ -1,4 +1,4 @@
-require('dotenv').config({ path: '/home/jhonathan/api/dist/' });
+require('dotenv').config({ path: '/home/jhonathan/api/dist/.env' });
 
 console.log('DATABASE_HOST:', process.env.DATABASE_HOST);
 console.log('DATABASE_PORT:', process.env.DATABASE_PORT);
