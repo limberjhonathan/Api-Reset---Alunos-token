@@ -17,7 +17,7 @@ import fotoRoutes from './routes/fotoRoutes';
 
 const whiteList = [
   'http://localhost:3000',
-  'https://www.google.com/',
+  'https://www.devmedia.com.br/',
 ];
 
 const corsOptions = {
