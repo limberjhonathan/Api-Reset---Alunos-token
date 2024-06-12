@@ -17,7 +17,7 @@ import fotoRoutes from './routes/fotoRoutes';
 
 const whiteList = [
   'http://localhost:3000',
-  'https://storiesig.info/en/',
+  'https://pt.wikipedia.org',
 ];
 
 const corsOptions = {

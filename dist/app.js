@@ -17,7 +17,7 @@ var _fotoRoutes = require('./routes/fotoRoutes'); var _fotoRoutes2 = _interopReq
 
 const whiteList = [
   'http://localhost:3000',
-  'https://storiesig.info/en/',
+  'https://pt.wikipedia.org',
 ];
 
 const corsOptions = {
