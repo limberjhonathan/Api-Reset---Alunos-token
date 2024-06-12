@@ -20,6 +20,7 @@ module.exports = {
     // "indent": ["error", 4],
     // "linebreak-style": ["error", "unix"],
     // "quotes": ["error", "double"],
+    'object-shorthand': ['error', 'always'],
     camelcase: 'off',
     'max-len': 'off',
     'no-param-reassign': 'off',
